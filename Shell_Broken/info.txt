@@ -1,0 +1,2 @@
+一个webshell密码爆破的脚本，个人感觉burp有字典就很好用了
+加之脚本本身也简单，可参考Password_Broken.py脚本

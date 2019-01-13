@@ -1,0 +1,4 @@
+Password_Broken_simple.py  是一个密码脚本  个人感觉burp还更好用
+
+Verify.py   是一个简单的验证码二值化处理识别
+Password_Broken.py  是一个爆破脚本配合验证码识别 没有写完，开线程总感觉会出识别错误
