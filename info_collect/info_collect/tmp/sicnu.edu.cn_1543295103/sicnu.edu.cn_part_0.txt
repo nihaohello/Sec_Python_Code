@@ -1,0 +1,5 @@
+portal.sicnu.edu.cn           	202.115.192.69
+econ.sicnu.edu.cn             	202.115.196.53
+pay.sicnu.edu.cn              	202.115.196.40
+it.sicnu.edu.cn               	202.115.194.219
+app.sicnu.edu.cn              	202.115.196.21

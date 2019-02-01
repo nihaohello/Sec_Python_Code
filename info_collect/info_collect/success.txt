@@ -1,0 +1,1 @@
+检测struts2漏洞: http://www.ricoh.com.tw:80

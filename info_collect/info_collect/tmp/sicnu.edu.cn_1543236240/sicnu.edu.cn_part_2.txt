@@ -1,0 +1,7 @@
+res.sicnu.edu.cn              	202.115.196.21
+news.sicnu.edu.cn             	202.115.196.5
+mail.sicnu.edu.cn             	202.115.196.20
+nic.sicnu.edu.cn              	202.115.196.51
+base.sicnu.edu.cn             	202.115.196.52
+gjc.sicnu.edu.cn              	202.115.196.51
+ykt.sicnu.edu.cn              	202.115.192.98

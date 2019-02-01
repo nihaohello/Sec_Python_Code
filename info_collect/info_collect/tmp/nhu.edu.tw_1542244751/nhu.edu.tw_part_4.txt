@@ -1,0 +1,6 @@
+tv.nhu.edu.tw                 	210.240.203.114
+cc.nhu.edu.tw                 	203.72.0.21
+computer.nhu.edu.tw           	203.72.0.21
+free.nhu.edu.tw               	203.72.2.227
+sport.nhu.edu.tw              	203.72.0.21
+csr.nhu.edu.tw                	203.72.0.4

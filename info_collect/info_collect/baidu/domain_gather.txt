@@ -1,0 +1,6 @@
+awww.baidu.com
+[-] Enumerating subdomains now for www.baidu.com
+hbb.www.baidu.com
+hnb.www.baidu.com
+[+] The output file is www.baidu.com.txt
+wwww.baidu.com

@@ -1,0 +1,4 @@
+cs.sicnu.edu.cn               	202.115.196.53
+m.sicnu.edu.cn                	202.115.196.52
+cy.sicnu.edu.cn               	202.115.194.41
+land.sicnu.edu.cn             	202.115.196.52

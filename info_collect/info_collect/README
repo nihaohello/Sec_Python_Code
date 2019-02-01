@@ -1,0 +1,86 @@
+为了避免不必要的麻烦
+先说明下：作者只是把一些工具糅合在一堆（虽然糅合的也不好）
+具体用了哪些，下面有介绍
+
+基础信息的收集：
+1.
+ip
+在线网址的探测：爱站网（超级ping），站长之家，查询网
+本地工具测试：ping，whatweb
+2.
+whois
+本地工具：nslookup，dig，whatweb，whois
+3.
+port
+本地工具：masscan，nmap
+4.
+语言和版本
+在线网址：云溪，钟馗之眼，sofa
+本地工具：whatweb
+5.
+dns的收集
+在线网址：360
+本地脚本：DirBrute，subDomainsBrute，Sublist3r
+本地工具：fierce，dnsmap
+6.
+常见漏洞
+在线网址：钟馗之眼
+会用到本地工具：nmap，nikto
+可能会用到的本地工具：msf，w3af
+会用到的本地脚本：cms检测脚本，jexboss，struts2，webshell的检测
+可能会用到的本地脚本：
+7.
+目录情况
+ common_function.py
+ dns_collect.py
+ hello.py
+ houzhui.txt
+ info_collect.py
+ ip_port_vuln_scan.py
+ lcoal_script_domain_collect.py
+ local_check.py
+ local_ip_port_check.py
+ local_tool_domain_collect.py
+ local_vuln_scan.py
+ many_ip_port_vuln_scan.py
+ online_check.py
+ online_domain_collect.py
+ screenshot.png
+ test.py
+ tmp
+└── 工具框架和目录  
+下面的用了别人的脚本目录，做了几句修改
+common_function.py
+dns_collect.py
+hello.py
+info_collect.py
+ip_port_vuln_scan.py
+lcoal_script_domain_collect.py
+local_check.py
+local_ip_port_check.py
+local_tool_domain_collect.py
+local_vuln_scan.py
+many_ip_port_vuln_scan.py
+online_check.py
+online_domain_collect.py
+
+
+
+8.
+使用方法
+python info_collect.py -u url or python info_collect.py -url url                 收集单个domain信息，存入域名目录下，当前域名目录（即二层目录下）
+python info_collect.py -d domain or python info_collect.py -domain domain         收集domain信息 ，存入域名目录下的domain_gather.txt
+python info_collect.py -a url  or python info_collect.py -all url                 先收集domain，再收集单个domain信息
+
+其中jexboss和stru2脚本的使用建议针对特定的网址
+
+
+
+上一篇编写了基本框架
+这一篇编写ip_port_vuln下的几个模块和域名收集的几个模块
+下一篇打算链接起来收集域名加各个域名的初步信息收集
+第四篇打算写代理和线程进程
+第五篇如果有心情和能力就写个django界面
+
+
+

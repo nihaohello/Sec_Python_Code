@@ -1,0 +1,60 @@
+基础信息的收集：
+1.
+ip
+在线网址的探测：爱站网（超级ping），站长之家，查询网
+本地工具测试：ping，whatweb
+2.
+whois
+本地工具：nslookup，dig，whatweb，whois
+3.
+port
+本地工具：masscan，nmap
+4.
+语言和版本
+在线网址：云溪，钟馗之眼，sofa
+本地工具：whatweb
+5.
+dns的收集
+在线网址：360
+本地脚本：DirBrute，subDomainsBrute，Sublist3r
+本地工具：fierce，dnsmap
+6.
+常见漏洞
+在线网址：钟馗之眼
+会用到本地工具：nmap，nikto
+可能会用到的本地工具：msf，w3af
+会用到的本地脚本：cms检测脚本，jexboss，struts2，webshell的检测
+可能会用到的本地脚本：
+7.
+输出所得到的情况
+dns.txt
+dns
+    domain_name/
+        ip，port，语言环境
+        whois
+        漏洞情况
+8.
+目录情况
+dns_scaner/
+vuln_scaner/
+ip_port_whois_scan.py
+vuln_scan.py
+dns.py
+main.py
+root_dns/
+        dns.txt
+        dns/
+            domain_name/
+                        ip，port，语言环境
+                        whois
+                        漏洞情况
+
+
+上一篇编写了基本框架
+这一篇编写ip_port_vuln下的几个模块和域名收集的几个模块
+下一篇打算链接起来收集域名加各个域名的初步信息收集
+第四篇打算写代理和线程进程
+第五篇如果有心情和能力就写个django界面
+
+
+

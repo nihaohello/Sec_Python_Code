@@ -1,0 +1,5 @@
+i.sicnu.edu.cn                	202.115.192.69
+phy.sicnu.edu.cn              	202.115.195.225
+analysis.sicnu.edu.cn         	202.115.194.154
+xcb.sicnu.edu.cn              	202.115.194.42
+chem.sicnu.edu.cn             	202.115.196.53

@@ -1,0 +1,8 @@
+i.sicnu.edu.cn                	202.115.192.69
+phy.sicnu.edu.cn              	202.115.195.225
+vpn.sicnu.edu.cn              	202.115.194.162
+acm.sicnu.edu.cn              	202.115.195.235
+classroom.sicnu.edu.cn        	202.115.194.20
+chem.sicnu.edu.cn             	202.115.196.53
+jpk.sicnu.edu.cn              	202.115.194.49
+mmc.sicnu.edu.cn              	202.115.196.53

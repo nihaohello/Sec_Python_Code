@@ -1,0 +1,6 @@
+music.sicnu.edu.cn            	202.115.196.53
+es.sicnu.edu.cn               	202.115.196.53
+youth.sicnu.edu.cn            	202.115.195.226
+gis.sicnu.edu.cn              	202.115.196.181
+geo.sicnu.edu.cn              	202.115.196.53
+zc.sicnu.edu.cn               	202.115.196.51

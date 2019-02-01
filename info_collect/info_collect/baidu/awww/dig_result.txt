@@ -1,0 +1,18 @@
+
+; <<>> DiG 9.11.2-5-Debian <<>> awww.baidu.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 43115
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;awww.baidu.com.			IN	A
+
+;; ANSWER SECTION:
+awww.baidu.com.		5	IN	A	119.75.218.11
+
+;; Query time: 13 msec
+;; SERVER: 192.168.37.2#53(192.168.37.2)
+;; WHEN: Sat Jan 12 22:34:17 CST 2019
+;; MSG SIZE  rcvd: 48
+

@@ -1,0 +1,7 @@
+Server:		192.168.37.2
+Address:	192.168.37.2#53
+
+Non-authoritative answer:
+Name:	awww.baidu.com
+Address: 119.75.218.11
+

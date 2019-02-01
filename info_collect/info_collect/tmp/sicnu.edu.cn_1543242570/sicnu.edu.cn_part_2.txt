@@ -1,0 +1,3 @@
+mail.sicnu.edu.cn             	202.115.196.20
+news.sicnu.edu.cn             	202.115.196.5
+res.sicnu.edu.cn              	202.115.196.21

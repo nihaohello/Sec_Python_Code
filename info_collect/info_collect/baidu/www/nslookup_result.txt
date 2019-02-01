@@ -1,0 +1,10 @@
+Server:		192.168.37.2
+Address:	192.168.37.2#53
+
+Non-authoritative answer:
+www.baidu.com	canonical name = www.a.shifen.com.
+Name:	www.a.shifen.com
+Address: 180.97.33.108
+Name:	www.a.shifen.com
+Address: 180.97.33.107
+

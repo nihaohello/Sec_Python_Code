@@ -1,0 +1,10 @@
+[32mchecking if the target is protected by 
+some kind of WAF/IPS/IDS
+[0m
+[31mheuristics detected that the target 
+is protected by some kind of WAF/IPS/IDS
+[0m
+are you sure that you want to 
+continue with further fuzzing? [y/N] 
+
+User Quit!

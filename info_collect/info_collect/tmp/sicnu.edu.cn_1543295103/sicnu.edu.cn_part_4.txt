@@ -1,0 +1,3 @@
+lab.sicnu.edu.cn              	202.115.195.215
+at.sicnu.edu.cn               	202.115.196.53
+mdm.sicnu.edu.cn              	202.115.196.21

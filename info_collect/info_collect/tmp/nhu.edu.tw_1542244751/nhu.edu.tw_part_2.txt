@@ -1,0 +1,3 @@
+mail.nhu.edu.tw               	203.72.0.5
+uni.nhu.edu.tw                	203.72.5.98
+esc.nhu.edu.tw                	203.72.0.10

@@ -1,0 +1,4 @@
+[94m[-] Enumerating subdomains now for www.ricoh.com.tw[0m
+HTTPSConnectionPool(host='www.ricoh.com.tw', port=7443): Max retries exceeded with url: /cdxy.old/.svn/.bashrc/.mdb/.inc/etc/passwd (Caused by ConnectTimeoutError(<libs.requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0x7f497ca5f4d0>, 'Connection to www.ricoh.com.tw timed out. (connect timeout=3)'))
+HTTPSConnectionPool(host='www.virustotal.com', port=443): Max retries exceeded with url: /en/domain/www.ricoh.com.tw/information/ (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7fc447bf53d0>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+[+] The output file is www.ricoh.com.tw.txt

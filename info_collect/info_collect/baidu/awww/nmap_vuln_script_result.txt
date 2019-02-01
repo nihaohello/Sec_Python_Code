@@ -1,0 +1,7 @@
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2019-01-12 22:35 CST
+Nmap scan report for 119.75.218.1
+Host is up (0.035s latency).
+All 1000 scanned ports on 119.75.218.1 are filtered
+
+Nmap done: 1 IP address (1 host up) scanned in 65.98 seconds

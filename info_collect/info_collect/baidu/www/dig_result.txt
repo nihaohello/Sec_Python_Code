@@ -1,0 +1,20 @@
+
+; <<>> DiG 9.11.2-5-Debian <<>> www.baidu.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 35499
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 3, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;www.baidu.com.			IN	A
+
+;; ANSWER SECTION:
+www.baidu.com.		5	IN	CNAME	www.a.shifen.com.
+www.a.shifen.com.	5	IN	A	180.97.33.108
+www.a.shifen.com.	5	IN	A	180.97.33.107
+
+;; Query time: 7 msec
+;; SERVER: 192.168.37.2#53(192.168.37.2)
+;; WHEN: Sat Jan 12 22:05:22 CST 2019
+;; MSG SIZE  rcvd: 93
+

@@ -1,0 +1,63 @@
+2018-11-25 14:10:00,784 (INFO): Checking Host: http://www.ricoh.com.tw:80
+2018-11-25 14:10:07,014 (WARNING): Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPConnectionPool(host='www.ricoh.com.tw', port=80): Read timed out. (read timeout=6.0)",)': /
+2018-11-25 14:10:13,133 (WARNING): Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPConnectionPool(host='www.ricoh.com.tw', port=80): Read timed out. (read timeout=6.0)",)': /
+2018-11-25 14:10:19,643 (WARNING): Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPConnectionPool(host='www.ricoh.com.tw', port=80): Read timed out. (read timeout=6.0)",)': /
+2018-11-25 14:10:25,795 (INFO): An error occurred while connecting to the host http://www.ricoh.com.tw:80
+Traceback (most recent call last):
+  File "jexboss/jexboss.py", line 352, in check_vul
+    result = _exploits.exploit_struts2_jakarta_multipart(url, 'jexboss', gl_args.cookies)
+  File "/root/python/jexboss/_exploits.py", line 103, in exploit_struts2_jakarta_multipart
+    r = gl_http_pool.request('GET', url, redirect=True, headers=headers)
+  File "/usr/lib/python2.7/dist-packages/urllib3/request.py", line 68, in request
+    **urlopen_kw)
+  File "/usr/lib/python2.7/dist-packages/urllib3/request.py", line 89, in request_encode_url
+    return self.urlopen(method, url, **extra_kw)
+  File "/usr/lib/python2.7/dist-packages/urllib3/poolmanager.py", line 323, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+  File "/usr/lib/python2.7/dist-packages/urllib3/connectionpool.py", line 667, in urlopen
+    **response_kw)
+  File "/usr/lib/python2.7/dist-packages/urllib3/connectionpool.py", line 667, in urlopen
+    **response_kw)
+  File "/usr/lib/python2.7/dist-packages/urllib3/connectionpool.py", line 667, in urlopen
+    **response_kw)
+  File "/usr/lib/python2.7/dist-packages/urllib3/connectionpool.py", line 638, in urlopen
+    _stacktrace=sys.exc_info()[2])
+  File "/usr/lib/python2.7/dist-packages/urllib3/util/retry.py", line 398, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+MaxRetryError: HTTPConnectionPool(host='www.ricoh.com.tw', port=80): Max retries exceeded with url: / (Caused by ReadTimeoutError("HTTPConnectionPool(host='www.ricoh.com.tw', port=80): Read timed out. (read timeout=6.0)",))
+2018-11-25 14:10:26,098 (INFO): Redirecting http://www.ricoh.com.tw:80 -> https://www.ricoh.com.tw:7443/
+2018-11-25 14:10:26,971 (WARNING): /usr/lib/python2.7/dist-packages/urllib3/connectionpool.py:849: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+
+2018-11-25 14:10:27,417 (INFO): Redirecting http://www.ricoh.com.tw:80 -> https://www.ricoh.com.tw:7443/
+2018-11-25 14:10:27,418 (WARNING): /usr/lib/python2.7/dist-packages/urllib3/connectionpool.py:849: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+
+2018-11-25 14:10:27,678 (INFO): Redirecting http://www.ricoh.com.tw:80 -> https://www.ricoh.com.tw:7443/
+2018-11-25 14:10:27,678 (WARNING): /usr/lib/python2.7/dist-packages/urllib3/connectionpool.py:849: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+
+2018-11-25 14:10:33,899 (WARNING): Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPConnectionPool(host='www.ricoh.com.tw', port=80): Read timed out. (read timeout=6.0)",)': /jmx-console/HtmlAdaptor?action=inspectMBean&name=jboss.system:type=ServerInfo
+2018-11-25 14:10:40,025 (WARNING): Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPConnectionPool(host='www.ricoh.com.tw', port=80): Read timed out. (read timeout=6.0)",)': /jmx-console/HtmlAdaptor?action=inspectMBean&name=jboss.system:type=ServerInfo
+2018-11-25 14:10:46,162 (WARNING): Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPConnectionPool(host='www.ricoh.com.tw', port=80): Read timed out. (read timeout=6.0)",)': /jmx-console/HtmlAdaptor?action=inspectMBean&name=jboss.system:type=ServerInfo
+2018-11-25 14:10:52,388 (INFO): An error occurred while connecting to the host http://www.ricoh.com.tw:80
+Traceback (most recent call last):
+  File "jexboss/jexboss.py", line 424, in check_vul
+    r = gl_http_pool.request('HEAD', url + str(paths[vector]), redirect=False, headers=headers)
+  File "/usr/lib/python2.7/dist-packages/urllib3/request.py", line 68, in request
+    **urlopen_kw)
+  File "/usr/lib/python2.7/dist-packages/urllib3/request.py", line 89, in request_encode_url
+    return self.urlopen(method, url, **extra_kw)
+  File "/usr/lib/python2.7/dist-packages/urllib3/poolmanager.py", line 323, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+  File "/usr/lib/python2.7/dist-packages/urllib3/connectionpool.py", line 667, in urlopen
+    **response_kw)
+  File "/usr/lib/python2.7/dist-packages/urllib3/connectionpool.py", line 667, in urlopen
+    **response_kw)
+  File "/usr/lib/python2.7/dist-packages/urllib3/connectionpool.py", line 667, in urlopen
+    **response_kw)
+  File "/usr/lib/python2.7/dist-packages/urllib3/connectionpool.py", line 638, in urlopen
+    _stacktrace=sys.exc_info()[2])
+  File "/usr/lib/python2.7/dist-packages/urllib3/util/retry.py", line 398, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+MaxRetryError: HTTPConnectionPool(host='www.ricoh.com.tw', port=80): Max retries exceeded with url: /jmx-console/HtmlAdaptor?action=inspectMBean&name=jboss.system:type=ServerInfo (Caused by ReadTimeoutError("HTTPConnectionPool(host='www.ricoh.com.tw', port=80): Read timed out. (read timeout=6.0)",))

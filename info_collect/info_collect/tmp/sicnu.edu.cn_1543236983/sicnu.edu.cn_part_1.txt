@@ -1,0 +1,2 @@
+es.sicnu.edu.cn               	202.115.196.53
+music.sicnu.edu.cn            	202.115.196.53

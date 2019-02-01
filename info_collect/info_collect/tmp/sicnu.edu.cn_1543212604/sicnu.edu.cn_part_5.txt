@@ -1,0 +1,5 @@
+i.sicnu.edu.cn                	202.115.192.69
+analysis.sicnu.edu.cn         	202.115.194.154
+vpn.sicnu.edu.cn              	202.115.194.162
+law.sicnu.edu.cn              	202.115.196.53
+smp.sicnu.edu.cn              	202.115.196.21

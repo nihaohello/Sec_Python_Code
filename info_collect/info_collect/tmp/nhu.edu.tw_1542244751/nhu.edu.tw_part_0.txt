@@ -1,0 +1,8 @@
+en.nhu.edu.tw                 	203.72.2.177
+it.nhu.edu.tw                 	203.72.2.175
+library.nhu.edu.tw            	203.72.2.155
+st.nhu.edu.tw                 	203.72.0.19
+culture.nhu.edu.tw            	203.72.0.59
+crc.nhu.edu.tw                	203.72.1.108
+smtp1.nhu.edu.tw              	203.72.0.7
+otc.nhu.edu.tw                	203.72.2.78

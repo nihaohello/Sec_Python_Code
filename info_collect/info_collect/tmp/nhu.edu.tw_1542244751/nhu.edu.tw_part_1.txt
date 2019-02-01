@@ -1,0 +1,7 @@
+info.nhu.edu.tw               	172.217.24.19
+sc.nhu.edu.tw                 	203.72.2.177
+ac.nhu.edu.tw                 	203.72.0.21
+wifi.nhu.edu.tw               	210.240.202.61
+sa.nhu.edu.tw                 	203.72.2.170
+www7.nhu.edu.tw               	203.72.2.167
+europe.nhu.edu.tw             	203.72.0.21

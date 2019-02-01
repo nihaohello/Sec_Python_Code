@@ -1,0 +1,8 @@
+design.nhu.edu.tw             	203.72.0.21
+cacti.nhu.edu.tw              	203.72.0.20
+enroll.nhu.edu.tw             	203.72.2.61
+asia.nhu.edu.tw               	203.72.0.21
+sec.nhu.edu.tw                	203.72.0.138
+ib.nhu.edu.tw                 	203.72.2.177
+cec.nhu.edu.tw                	203.72.2.174
+cst.nhu.edu.tw                	203.72.0.21

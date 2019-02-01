@@ -1,0 +1,56 @@
+2019-01-12 22:06:03,123 (INFO): Checking Host: https://www.baidu.com:443
+2019-01-12 22:06:03,396 (WARNING): /usr/lib/python2.7/dist-packages/urllib3/connectionpool.py:860: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+
+2019-01-12 22:06:03,444 (WARNING): /usr/lib/python2.7/dist-packages/urllib3/connectionpool.py:860: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+
+2019-01-12 22:06:04,395 (WARNING): /usr/lib/python2.7/dist-packages/urllib3/connectionpool.py:860: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+
+2019-01-12 22:06:04,819 (WARNING): /usr/lib/python2.7/dist-packages/urllib3/connectionpool.py:860: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+
+2019-01-12 22:06:05,150 (WARNING): /usr/lib/python2.7/dist-packages/urllib3/connectionpool.py:860: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+
+2019-01-12 22:06:05,203 (WARNING): /usr/lib/python2.7/dist-packages/urllib3/connectionpool.py:860: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+
+2019-01-12 22:06:05,528 (WARNING): /usr/lib/python2.7/dist-packages/urllib3/connectionpool.py:860: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+
+2019-01-12 22:06:05,586 (WARNING): /usr/lib/python2.7/dist-packages/urllib3/connectionpool.py:860: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+
+2019-01-12 22:06:05,641 (WARNING): /usr/lib/python2.7/dist-packages/urllib3/connectionpool.py:860: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+
+2019-01-12 22:34:57,396 (INFO): Checking Host: https://awww.baidu.com:443
+2019-01-12 22:35:07,744 (WARNING): /usr/lib/python2.7/dist-packages/urllib3/connectionpool.py:860: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+
+2019-01-12 22:35:07,816 (WARNING): /usr/lib/python2.7/dist-packages/urllib3/connectionpool.py:860: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+
+2019-01-12 22:35:08,599 (WARNING): /usr/lib/python2.7/dist-packages/urllib3/connectionpool.py:860: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+
+2019-01-12 22:35:08,864 (WARNING): /usr/lib/python2.7/dist-packages/urllib3/connectionpool.py:860: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+
+2019-01-12 22:35:09,075 (WARNING): /usr/lib/python2.7/dist-packages/urllib3/connectionpool.py:860: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+
+2019-01-12 22:35:09,141 (WARNING): /usr/lib/python2.7/dist-packages/urllib3/connectionpool.py:860: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+
+2019-01-12 22:35:09,314 (WARNING): /usr/lib/python2.7/dist-packages/urllib3/connectionpool.py:860: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+
+2019-01-12 22:35:09,377 (WARNING): /usr/lib/python2.7/dist-packages/urllib3/connectionpool.py:860: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+
+2019-01-12 22:35:09,437 (WARNING): /usr/lib/python2.7/dist-packages/urllib3/connectionpool.py:860: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+

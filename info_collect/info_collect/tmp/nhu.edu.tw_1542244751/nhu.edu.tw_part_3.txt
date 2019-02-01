@@ -1,0 +1,7 @@
+tourism.nhu.edu.tw            	203.72.0.21
+cs.nhu.edu.tw                 	203.72.0.21
+online.nhu.edu.tw             	210.240.203.112
+scc.nhu.edu.tw                	210.240.211.40
+fly.nhu.edu.tw                	172.217.24.19
+po.nhu.edu.tw                 	203.72.2.33
+art.nhu.edu.tw                	203.72.0.21

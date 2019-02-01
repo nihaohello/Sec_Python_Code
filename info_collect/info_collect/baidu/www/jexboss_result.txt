@@ -1,0 +1,42 @@
+[0m
+[0m
+[3J[H[2J[31m
+ * --- JexBoss: Jboss verify and EXploitation Tool  --- *
+ |  * And others Java Deserialization Vulnerabilities * | 
+ |                                                      |
+ | @author:  João Filho Matos Figueiredo                |
+ | @contact: joaomatosf@gmail.com                       |
+ |                                                      |
+ | @update: https://github.com/joaomatosf/jexboss       |
+ #______________________________________________________#
+
+[31m @version: 1.2.4
+[0m
+[94m * Checking for updates in: http://joaomatosf.com/rnp/releases.txt **
+[0m
+[32m
+ ** Checking Host: https://www.baidu.com:443 **
+
+[32m [*] Checking admin-console:               [0m [32m  [ REDIRECT ]
+ * The server sent a redirect to: https://www.baidu.com/search/error.html
+
+[32m [*] Checking Struts2:                     [0m [32m  [ OK ]
+[32m [*] Checking Servlet Deserialization:     [0m [32m  [ OK ]
+[32m [*] Checking Application Deserialization: [0m [32m  [ OK ]
+[32m [*] Checking Jenkins:                     [0m [32m  [ OK ]
+[32m [*] Checking web-console:                 [0m [32m  [ OK ]
+[32m [*] Checking jmx-console:                 [0m [32m  [ REDIRECT ]
+ * The server sent a redirect to: https://www.baidu.com/search/error.html
+
+[32m [*] Checking JMXInvokerServlet:           [0m [32m  [ OK ]
+[32m
+
+ * Results: 
+   The server is not vulnerable to bugs tested ... :D
+[0m
+[0m * Info: review, suggestions, updates, etc: 
+   https://github.com/joaomatosf/jexboss
+
+[32m[1m * DONATE: [0mPlease consider making a donation to help improve this tool,
+[32m[1m * Bitcoin Address: [0m 14x4niEpfp7CegBYr3tTzTn4h6DAnDCD9C 
+
